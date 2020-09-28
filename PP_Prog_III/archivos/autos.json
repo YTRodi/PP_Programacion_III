@@ -1,0 +1,14 @@
+[
+    {
+        "_patente": "aaa123",
+        "_fechaIngreso": "29 - 01:09:41",
+        "_tipo": "hora",
+        "_emailUsuario": "admin@mail.com"
+    },
+    {
+        "_patente": "bbb999",
+        "_fechaIngreso": "29 - 01:09:10",
+        "_tipo": "mensual",
+        "_emailUsuario": "admin@mail.com"
+    }
+]
