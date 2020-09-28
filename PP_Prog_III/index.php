@@ -176,20 +176,6 @@ switch ($path) {
         break;
 
     case '/ingreso':
-        //!! BORRAR!!!
-        //!! BORRAR!!!
-        //!! BORRAR!!!
-        //!! BORRAR!!!
-        //!! BORRAR!!!
-
-        //DECODIFICO EL TOKEN QUE ESTÁ INGRESADO ACTUALMENTE EN POSTMAN!
-        $jwtDecodificado->tipo = 'user';
-
-        //!! BORRAR!!!
-        //!! BORRAR!!!
-        //!! BORRAR!!!
-        //!! BORRAR!!!
-        //!! BORRAR!!!
 
         if($jwtDecodificado->tipo === 'user'){ //Verifico JWT por el header
 
